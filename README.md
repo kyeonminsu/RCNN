@@ -1,6 +1,5 @@
 Origin reference url:https://github.com/object-detection-algorithm/R-CNN
 
-\sum 
 
 # R-CNN
 
